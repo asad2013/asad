@@ -1,0 +1,8 @@
+{
+  "name": "asad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "c9e34904"
+}
