@@ -1,0 +1,85 @@
+.alosenioiur{
+    background-color: blue;
+    min-height: 500px;
+    width: 50%;
+    padding: 60px;
+    float: left; 
+    color: white; 
+    margin: 0 auto;
+    font-size: larger; 
+}
+.helloname{
+    color: white;
+}
+.h5{
+    font-size: 15px;
+    color: white;
+}
+.h1{
+    font-size: 35px!important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h2{
+    font-size: 15px;
+    color: white;
+}
+.alosenbious{
+    min-height: 1000px;
+    width: 50%;
+    padding: 60px;
+    float: right; 
+    color: white; 
+    margin: 0 auto;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h0{
+    color: white;
+}
+.hello{
+    color: white;
+}
+.h9{
+    color: white;
+    font-size: 14px;
+}
+.niyorktag{
+    color: white;
+    font-size: 14px;
+}
+.span{
+    color: blue;
+    text-decoration: underline  ;
+}
+.p2{
+    color: black;
+}
+
+.col{
+    color: black;
+
+}
+.ioncol{
+    color: black;
+}
+.ni{
+    color: black;
+}
+.mycheckbox{
+    color: black;
+    font-size: 16px;
+}
+.how{
+    color: black;
+}
+.span2{
+    color: blue;
+}
+.mycard{
+    width: 28%;
+    float: left;
+    background-color: green;
+    margin: 1%;
+    min-height: 300px;
+
+}

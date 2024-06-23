@@ -1,0 +1,47 @@
+.mycontainer{
+    background-color: #EC9A66;
+    min-height: 1000px;
+    height: 600px;
+    width: 100%;
+    padding: 30px;
+    margin: 0 auto;
+    justify-content: center;
+}
+h3,h4{
+    color: black;
+    font-size: 18px!important;
+}
+.profile{
+
+    height: 150px;
+    justify-content: center;
+    width: 150px;
+    margin: 0 auto;
+    border: 3px solid #EC9A66;
+    border-radius: 100%;
+}
+.btn{
+    background-color: green;
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    color: #FFFF!important;
+}
+.btnlogout{
+    background-color: red;
+    padding: 12px;
+    width: 100%;
+    margin-top: 12px;
+    border-radius: 8px;
+    color: #FFFF;
+}
+.innerContainer{
+
+    width: 60%;
+    min-width: 400px;
+    min-height: 600px;
+    margin: 0 auto;
+    background-color: #FFFF;
+    padding: 30px;
+    justify-content: center;
+}
